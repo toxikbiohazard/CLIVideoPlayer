@@ -27,8 +27,8 @@ git clone https://github.com/toxikbiohazard/CLIVideoPlayer
 
 ## Usage Instructions
 
-**1. Put your mp4 file in the main directory (for audio support, convert the mp4 file to mp3 and put it in the main directory)
+**1.** Put your mp4 file in the main directory (for audio support, convert the mp4 file to mp3 and put it in the main directory)
 
-**2. Launch the script:** As mentioned above, run the `Player.py` file.
+**2.** Launch the script:** As mentioned above, run the `Player.py` file.
 
-**3. Enjoy!
+**3.** Enjoy!
