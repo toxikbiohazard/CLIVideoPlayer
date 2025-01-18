@@ -18,7 +18,7 @@ COLORS_REF = np.array([(0,0,0), (0,0,255), (0,255,0), (0,255,255),
 
 TARGET_FPS = 30  # Set your desired FPS cap here
 FRAME_TIME = 1.0 / TARGET_FPS
-MAX_FRAME_SKIP = 5  # Maximum number of frames to skip when lagging
+MAX_FRAME_SKIP = 10  # Maximum number of frames to skip when lagging
 
 @lru_cache(maxsize=512)
 def get_ansi_color_cached(b, g, r):
